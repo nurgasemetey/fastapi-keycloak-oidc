@@ -1,6 +1,6 @@
 # fastapi-keycloak-oidc
 
-This is example of how to use Keycloak on Fastapi. If you want to verify JWT tokens then you don't need to use Keycloak SDK and create client for backend.
+This is example of how to use Keycloak on Fastapi. If you want to **just** verify JWT tokens then you don't need to use Keycloak SDK and create client for backend.
 The reason for this is that Keycloak supports OIDC and OIDC provides standard for authentication and authorization.
 
 ## Prerequisites
