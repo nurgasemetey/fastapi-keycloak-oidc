@@ -23,7 +23,7 @@ We are creating client for testing and getting JWT tokens.
 
 **Install dependencies**
 
-`pip install -r requirements.py`
+`pip install -r requirements.txt`
 
 
 ## Testing
