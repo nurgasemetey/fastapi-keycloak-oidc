@@ -17,6 +17,9 @@ class User(BaseModel):
     username: str
 
 
+# Why doing this?
+# Because we want to fetch public key on start
+# Later we would verify incoming JWT tokens
 try:
     r = requests.get("http://localhost:8080/auth/realms/master",
                      timeout=3)
