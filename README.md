@@ -2,7 +2,7 @@
 
 This is example of how to use Keycloak on Fastapi. 
 
-It is useful for those who want to use JWT tokens and don't want to create separate client for backend on Keycloak. 
+It is useful for those who want to use JWT tokens and don't want to use Keycloak SDK in the backend. 
 
 ## Prerequisites
 
