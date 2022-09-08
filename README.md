@@ -31,7 +31,7 @@ We are creating client for testing and getting JWT tokens.
 **Run python code**
 
 ```bash
-python starter.py`
+python starter.py
 ```
 
 **Run curl on secured endpoint**
